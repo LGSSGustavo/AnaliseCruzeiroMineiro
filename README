@@ -1,0 +1,59 @@
+ Análise de Dados: Desempenho do Cruzeiro no Campeonato Mineiro
+
+Este repositório apresenta uma análise do desempenho do Cruzeiro no Campeonato Mineiro, utilizando dados extraídos de um arquivo Excel. O objetivo é explorar as estatísticas dos jogos, identificar padrões e destacar insights relevantes sobre a performance do time.
+
+📌 Objetivo do Projeto
+
+Analisar o desempenho do Cruzeiro no Campeonato Mineiro.
+
+Identificar padrões de vitórias, derrotas e empates.
+
+🛠️ Tecnologias Utilizadas
+
+Python: Para manipulação e análise dos dados.
+
+Pandas: Tratamento e organização do conjunto de dados.
+
+Matplotlib/Seaborn: Visualização de gráficos.
+
+Excel: Fonte de dados dos jogos.
+
+📊 Análises Realizadas
+
+Estatísticas gerais (número de jogos, vitórias, derrotas e empates).
+
+Desempenho em casa vs. fora de casa.
+
+Média de gols marcados e sofridos.
+
+🚀 Como Executar o Projeto
+
+Clone o repositório
+
+Navegue até o diretório do projeto:
+
+cd analise-cruzeiro-mineiro
+
+Crie um ambiente virtual:
+
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate  # Windows
+
+Instale as dependências:
+
+pip install -r requirements.txt
+
+Execute o script de análise:
+
+python analise_cruzeiro.py
+
+📧 Contato
+
+Em caso de dúvidas ou sugestões, fique à vontade para me contatar:
+
+Seu LinkedIn: www.linkedin.com/in/luiz-gustavo-silva-simoes-567023251
+
+Email: gustavosimoes1997@gmail.com
+
+Telefone: 993654746
